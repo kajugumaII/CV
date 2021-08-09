@@ -1,0 +1,23 @@
+.cup{
+    display: flex;
+    margin-left: 30px;
+}
+.heading{
+    margin-left: 400px;
+}
+.bottle{
+    display: flex;
+}
+.card-2{
+    margin-left: 300px;
+}
+*{
+    background-color: aliceblue;
+}
+.loki{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.card-3{
+ display: flex;
+}
